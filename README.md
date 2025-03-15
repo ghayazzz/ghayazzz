@@ -12,7 +12,12 @@ Hi there! 👋<br>Mohammed Ghayasuddin<br>🔭 I’m currently working on: Cloud
 ![](https://nirzak-streak-stats.vercel.app/?user=ghayazzz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghayazzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 💬 Quote:
+
+📝 **"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."**<br>
+― *Edsger W. Dijkstra*
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
