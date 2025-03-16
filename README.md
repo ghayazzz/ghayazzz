@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi there! 👋<br>Mohammed Ghayasuddin<br>🔭 I’m currently working on: Cloud-based Intrusion Detection Systems & Blockchain Security.<br><br>🌱 I’m currently learning: Advanced Machine Learning, Zero-Knowledge Proofs, and Data Lake Processing.<br><br>👯 I’m looking to collaborate on: Open-source projects in Cybersecurity, AI, and Cloud Computing.<br><br>🤔 I’m looking for help with: Optimizing large-scale data pipelines & distributed computing.<br><br>💬 Ask me about: Full-Stack Development, Cloud Architecture, and Secure Systems.<br><br>📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mghayasuddin2000@gmail.com)
 
+[![Portfolio](https://img.icons8.com/fluency/48/portfolio.png?logo=portfolio&logoColor=white)](https://ghayazzz.github.io/) <br>Portfolio
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghayaz26) 
